@@ -12,7 +12,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "resume.nitishnain.in",
+			"pattern": "resume.naveennain.in",
 			"custom_domain": true
 		}
 	]
